@@ -8,7 +8,7 @@ const ContactForm = () => {
         <h2 className="text-4xl font-bold">Contact</h2>
 
         <p className="pt-6 pb-6 text-base max-w-2xl mx-auto dark:text-neutral-400">
-        Want to contact us? Have questions or need assistance? We're here to help! Please reach out to us via the following channels:
+        Want to contact us? Have questions or need assistance? We&apos;re here to help! Please reach out to us via the following channels:
         </p>
 
         <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-neutral-400">
